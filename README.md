@@ -24,8 +24,8 @@ This project is a Show and Tell assignment for the CS391 course, demonstrating h
 1. Clone the project to your local machine / 克隆项目到本地：
 
    ```bash
-   git clone https://github.com/your-username/show-and-tell.git
-   cd show-and-tell
+   git clone https://github.com/Charles-Zhang-114514/CS391S-Antibot_App.git
+   cd CS391S-Antibot_App
 
 2. Install dependencies / 安装必要组件： 
    ```bash 
